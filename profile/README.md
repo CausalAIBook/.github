@@ -21,22 +21,18 @@
 <br>
 
 [![Notebooks](https://img.shields.io/badge/Notebooks_Repo-MetricsMLNotebooks-181717?style=flat-square&logo=github)](https://github.com/CausalAIBook/MetricsMLNotebooks)
-&nbsp;
-[![Python](https://img.shields.io/badge/Python-Notebooks-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/CausalAIBook/MetricsMLNotebooks)
-&nbsp;
-[![R](https://img.shields.io/badge/R-Notebooks-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/CausalAIBook/MetricsMLNotebooks)
 
 ---
 
 **A comprehensive, rigorous guide to modern causal inference methods powered by machine learning.**
 
 *By* &ensp;
-[**Victor Chernozhukov**](https://www.victorchernozhukov.com) *(MIT)* &ensp;&bull;&ensp;
-[**Christian Hansen**](https://voices.uchicago.edu/christianhansen/) *(U Chicago)* &ensp;&bull;&ensp;
-[**Nathan Kallus**](https://nathankallus.com/) *(Cornell)*
+[**Victor Chernozhukov**](https://www.victorchernozhukov.com) *(Massachusetts Institute of Technology)* &ensp;&bull;&ensp;
+[**Christian Hansen**](https://voices.uchicago.edu/christianhansen/) *(University of Chicago)* &ensp;&bull;&ensp;
+[**Nathan Kallus**](https://nathankallus.com/) *(Cornell University)*
 <br>
-[**Martin Spindler**](https://www.bwl.uni-hamburg.de/en/statistik/team/spindler.html) *(U Hamburg)* &ensp;&bull;&ensp;
-[**Vasilis Syrgkanis**](https://vsyrgkanis.com/) *(Stanford)*
+[**Martin Spindler**](https://www.bwl.uni-hamburg.de/en/statistik/team/spindler.html) *(Universität Hamburg)* &ensp;&bull;&ensp;
+[**Vasilis Syrgkanis**](https://vsyrgkanis.com/) *(Stanford University)*
 
 </div>
 
