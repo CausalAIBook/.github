@@ -27,12 +27,17 @@
 **A comprehensive, rigorous guide to modern causal inference methods powered by machine learning.**
 
 *By* &ensp;
-[**Victor Chernozhukov**](https://www.victorchernozhukov.com) *(Massachusetts Institute of Technology)* &ensp;&bull;&ensp;
-[**Christian Hansen**](https://voices.uchicago.edu/christianhansen/) *(University of Chicago)* &ensp;&bull;&ensp;
-[**Nathan Kallus**](https://nathankallus.com/) *(Cornell University)*
-<br>
-[**Martin Spindler**](https://www.bwl.uni-hamburg.de/en/statistik/team/spindler.html) *(Universität Hamburg)* &ensp;&bull;&ensp;
-[**Vasilis Syrgkanis**](https://vsyrgkanis.com/) *(Stanford University)*
+[**Victor Chernozhukov**](https://www.victorchernozhukov.com)<sup>1</sup> &ensp;&bull;&ensp;
+[**Christian Hansen**](https://voices.uchicago.edu/christianhansen/)<sup>2</sup> &ensp;&bull;&ensp;
+[**Nathan Kallus**](https://nathankallus.com/)<sup>3</sup> &ensp;&bull;&ensp;
+[**Martin Spindler**](https://www.bwl.uni-hamburg.de/en/statistik/team/spindler.html)<sup>4</sup> &ensp;&bull;&ensp;
+[**Vasilis Syrgkanis**](https://vsyrgkanis.com/)<sup>5</sup>
+
+<sup>1</sup>Massachusetts Institute of Technology &ensp;
+<sup>2</sup>University of Chicago &ensp;
+<sup>3</sup>Cornell University &ensp;
+<sup>4</sup>Universität Hamburg &ensp;
+<sup>5</sup>Stanford University
 
 </div>
 
